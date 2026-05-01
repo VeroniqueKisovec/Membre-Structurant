@@ -667,7 +667,7 @@ Formulaire Club Korvell
 </div>
 
 <footer>
-  Club Korvell &nbsp;·&nbsp; 1441 Boul. René-Lévesque O, Montréal, QC H3G 1T8 &nbsp;·&nbsp; veronique@clubkorvell.com &nbsp;·&nbsp; clubkorvell.com
+  Club Korvell &nbsp;·&nbsp; RT1441 Boul. René-Lévesque O, Montréal, QC H3G 1T7 &nbsp;·&nbsp; veronique@clubkorvell.com &nbsp;·&nbsp; clubkorvell.com
 </footer>
 
 <script>
